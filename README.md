@@ -102,7 +102,7 @@ Choose a bitrate, or keep the original source quality.
 
 <img src="docs/how-to-use/2.gif" alt="Step 2 - Set bitrate" width="300" />
 
-> ⚠️ **Important:** 2K/4K video or bitrate above **50 Mbps** is not recommended, because it may increase the risk of TikTok account restrictions.
+> ⚠️ **Important:** 2K/4K videos is not recommended as it may increase the risk of TikTok account restrictions.
 
 ### 3. Run patching 🧩
 
